@@ -1,0 +1,15 @@
+D:\Kodlar\c#\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.exe
+D:\Kodlar\c#\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.deps.json
+D:\Kodlar\c#\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.runtimeconfig.json
+D:\Kodlar\c#\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.dll
+D:\Kodlar\c#\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.pdb
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.csproj.AssemblyReference.cache
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.AssemblyInfoInputs.cache
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.AssemblyInfo.cs
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.dll
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\refint\tip_donusumleri.dll
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.pdb
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.genruntimeconfig.cache
+D:\Kodlar\c#\tip_donusumleri\obj\Debug\net7.0\ref\tip_donusumleri.dll
