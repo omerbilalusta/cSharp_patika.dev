@@ -1,0 +1,15 @@
+D:\Kodlar\c#\if_else\bin\Debug\net7.0\if_else.exe
+D:\Kodlar\c#\if_else\bin\Debug\net7.0\if_else.deps.json
+D:\Kodlar\c#\if_else\bin\Debug\net7.0\if_else.runtimeconfig.json
+D:\Kodlar\c#\if_else\bin\Debug\net7.0\if_else.dll
+D:\Kodlar\c#\if_else\bin\Debug\net7.0\if_else.pdb
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.csproj.AssemblyReference.cache
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.AssemblyInfoInputs.cache
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.AssemblyInfo.cs
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.dll
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\refint\if_else.dll
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.pdb
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\if_else.genruntimeconfig.cache
+D:\Kodlar\c#\if_else\obj\Debug\net7.0\ref\if_else.dll

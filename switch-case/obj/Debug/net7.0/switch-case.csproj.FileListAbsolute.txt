@@ -1,0 +1,15 @@
+D:\Kodlar\c#\switch-case\bin\Debug\net7.0\switch-case.exe
+D:\Kodlar\c#\switch-case\bin\Debug\net7.0\switch-case.deps.json
+D:\Kodlar\c#\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+D:\Kodlar\c#\switch-case\bin\Debug\net7.0\switch-case.dll
+D:\Kodlar\c#\switch-case\bin\Debug\net7.0\switch-case.pdb
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.csproj.AssemblyReference.cache
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.dll
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.pdb
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+D:\Kodlar\c#\switch-case\obj\Debug\net7.0\ref\switch-case.dll
