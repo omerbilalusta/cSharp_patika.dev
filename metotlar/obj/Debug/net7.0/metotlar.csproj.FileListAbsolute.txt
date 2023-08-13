@@ -1,0 +1,15 @@
+D:\Kodlar\c#\metotlar\bin\Debug\net7.0\metotlar.exe
+D:\Kodlar\c#\metotlar\bin\Debug\net7.0\metotlar.deps.json
+D:\Kodlar\c#\metotlar\bin\Debug\net7.0\metotlar.runtimeconfig.json
+D:\Kodlar\c#\metotlar\bin\Debug\net7.0\metotlar.dll
+D:\Kodlar\c#\metotlar\bin\Debug\net7.0\metotlar.pdb
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.csproj.AssemblyReference.cache
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfoInputs.cache
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfo.cs
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.dll
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\refint\metotlar.dll
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.pdb
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\metotlar.genruntimeconfig.cache
+D:\Kodlar\c#\metotlar\obj\Debug\net7.0\ref\metotlar.dll
