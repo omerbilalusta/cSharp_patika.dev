@@ -1,0 +1,15 @@
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\bin\Debug\net7.0\dizi-array-sinifi-metotlari.exe
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\bin\Debug\net7.0\dizi-array-sinifi-metotlari.deps.json
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\bin\Debug\net7.0\dizi-array-sinifi-metotlari.runtimeconfig.json
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\bin\Debug\net7.0\dizi-array-sinifi-metotlari.dll
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\bin\Debug\net7.0\dizi-array-sinifi-metotlari.pdb
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.csproj.AssemblyReference.cache
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.AssemblyInfoInputs.cache
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.AssemblyInfo.cs
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.dll
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\refint\dizi-array-sinifi-metotlari.dll
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.pdb
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\dizi-array-sinifi-metotlari.genruntimeconfig.cache
+D:\Kodlar\c#\dizi-array-sinifi-metotlari\obj\Debug\net7.0\ref\dizi-array-sinifi-metotlari.dll

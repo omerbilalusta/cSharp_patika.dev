@@ -1,0 +1,15 @@
+D:\Kodlar\c#\diziler\bin\Debug\net7.0\diziler.exe
+D:\Kodlar\c#\diziler\bin\Debug\net7.0\diziler.deps.json
+D:\Kodlar\c#\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+D:\Kodlar\c#\diziler\bin\Debug\net7.0\diziler.dll
+D:\Kodlar\c#\diziler\bin\Debug\net7.0\diziler.pdb
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.dll
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\refint\diziler.dll
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.pdb
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+D:\Kodlar\c#\diziler\obj\Debug\net7.0\ref\diziler.dll
