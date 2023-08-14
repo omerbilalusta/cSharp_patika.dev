@@ -1,0 +1,15 @@
+D:\Kodlar\c#\hazir-metotlar-string\bin\Debug\net7.0\hazir-metotlar-string.exe
+D:\Kodlar\c#\hazir-metotlar-string\bin\Debug\net7.0\hazir-metotlar-string.deps.json
+D:\Kodlar\c#\hazir-metotlar-string\bin\Debug\net7.0\hazir-metotlar-string.runtimeconfig.json
+D:\Kodlar\c#\hazir-metotlar-string\bin\Debug\net7.0\hazir-metotlar-string.dll
+D:\Kodlar\c#\hazir-metotlar-string\bin\Debug\net7.0\hazir-metotlar-string.pdb
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.csproj.AssemblyReference.cache
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.AssemblyInfoInputs.cache
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.AssemblyInfo.cs
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.dll
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\refint\hazir-metotlar-string.dll
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.pdb
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\hazir-metotlar-string.genruntimeconfig.cache
+D:\Kodlar\c#\hazir-metotlar-string\obj\Debug\net7.0\ref\hazir-metotlar-string.dll

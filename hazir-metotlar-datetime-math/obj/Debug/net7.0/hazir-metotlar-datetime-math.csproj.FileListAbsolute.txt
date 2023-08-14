@@ -1,0 +1,15 @@
+D:\Kodlar\c#\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.exe
+D:\Kodlar\c#\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.deps.json
+D:\Kodlar\c#\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.runtimeconfig.json
+D:\Kodlar\c#\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.dll
+D:\Kodlar\c#\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.pdb
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.dll
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\refint\hazir-metotlar-datetime-math.dll
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.pdb
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
+D:\Kodlar\c#\hazir-metotlar-datetime-math\obj\Debug\net7.0\ref\hazir-metotlar-datetime-math.dll
