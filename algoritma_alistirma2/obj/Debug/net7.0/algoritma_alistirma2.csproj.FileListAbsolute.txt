@@ -1,0 +1,15 @@
+D:\Kodlar\c#\algoritma_alistirma2\bin\Debug\net7.0\algoritma_alistirma2.exe
+D:\Kodlar\c#\algoritma_alistirma2\bin\Debug\net7.0\algoritma_alistirma2.deps.json
+D:\Kodlar\c#\algoritma_alistirma2\bin\Debug\net7.0\algoritma_alistirma2.runtimeconfig.json
+D:\Kodlar\c#\algoritma_alistirma2\bin\Debug\net7.0\algoritma_alistirma2.dll
+D:\Kodlar\c#\algoritma_alistirma2\bin\Debug\net7.0\algoritma_alistirma2.pdb
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.csproj.AssemblyReference.cache
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.AssemblyInfoInputs.cache
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.AssemblyInfo.cs
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.dll
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\refint\algoritma_alistirma2.dll
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.pdb
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\algoritma_alistirma2.genruntimeconfig.cache
+D:\Kodlar\c#\algoritma_alistirma2\obj\Debug\net7.0\ref\algoritma_alistirma2.dll
