@@ -1,0 +1,15 @@
+D:\Kodlar\c#\generic_list\bin\Debug\net7.0\generic_list.exe
+D:\Kodlar\c#\generic_list\bin\Debug\net7.0\generic_list.deps.json
+D:\Kodlar\c#\generic_list\bin\Debug\net7.0\generic_list.runtimeconfig.json
+D:\Kodlar\c#\generic_list\bin\Debug\net7.0\generic_list.dll
+D:\Kodlar\c#\generic_list\bin\Debug\net7.0\generic_list.pdb
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.csproj.AssemblyReference.cache
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.AssemblyInfoInputs.cache
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.AssemblyInfo.cs
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.dll
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\refint\generic_list.dll
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.pdb
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\generic_list.genruntimeconfig.cache
+D:\Kodlar\c#\generic_list\obj\Debug\net7.0\ref\generic_list.dll

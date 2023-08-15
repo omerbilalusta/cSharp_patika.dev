@@ -1,0 +1,15 @@
+D:\Kodlar\c#\dictionary\bin\Debug\net7.0\dictionary.exe
+D:\Kodlar\c#\dictionary\bin\Debug\net7.0\dictionary.deps.json
+D:\Kodlar\c#\dictionary\bin\Debug\net7.0\dictionary.runtimeconfig.json
+D:\Kodlar\c#\dictionary\bin\Debug\net7.0\dictionary.dll
+D:\Kodlar\c#\dictionary\bin\Debug\net7.0\dictionary.pdb
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.csproj.AssemblyReference.cache
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfoInputs.cache
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfo.cs
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.dll
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\refint\dictionary.dll
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.pdb
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\dictionary.genruntimeconfig.cache
+D:\Kodlar\c#\dictionary\obj\Debug\net7.0\ref\dictionary.dll

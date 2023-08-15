@@ -1,0 +1,15 @@
+D:\Kodlar\c#\arrayList\bin\Debug\net7.0\arrayList.exe
+D:\Kodlar\c#\arrayList\bin\Debug\net7.0\arrayList.deps.json
+D:\Kodlar\c#\arrayList\bin\Debug\net7.0\arrayList.runtimeconfig.json
+D:\Kodlar\c#\arrayList\bin\Debug\net7.0\arrayList.dll
+D:\Kodlar\c#\arrayList\bin\Debug\net7.0\arrayList.pdb
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.csproj.AssemblyReference.cache
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfoInputs.cache
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfo.cs
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.dll
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\refint\arrayList.dll
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.pdb
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\arrayList.genruntimeconfig.cache
+D:\Kodlar\c#\arrayList\obj\Debug\net7.0\ref\arrayList.dll
