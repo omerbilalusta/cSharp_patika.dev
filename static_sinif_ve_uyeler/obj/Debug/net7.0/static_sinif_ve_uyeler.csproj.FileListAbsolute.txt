@@ -1,0 +1,15 @@
+D:\Kodlar\c#\static_sinif_ve_uyeler\bin\Debug\net7.0\static_sinif_ve_uyeler.exe
+D:\Kodlar\c#\static_sinif_ve_uyeler\bin\Debug\net7.0\static_sinif_ve_uyeler.deps.json
+D:\Kodlar\c#\static_sinif_ve_uyeler\bin\Debug\net7.0\static_sinif_ve_uyeler.runtimeconfig.json
+D:\Kodlar\c#\static_sinif_ve_uyeler\bin\Debug\net7.0\static_sinif_ve_uyeler.dll
+D:\Kodlar\c#\static_sinif_ve_uyeler\bin\Debug\net7.0\static_sinif_ve_uyeler.pdb
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.csproj.AssemblyReference.cache
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.AssemblyInfoInputs.cache
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.AssemblyInfo.cs
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.dll
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\refint\static_sinif_ve_uyeler.dll
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.pdb
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\static_sinif_ve_uyeler.genruntimeconfig.cache
+D:\Kodlar\c#\static_sinif_ve_uyeler\obj\Debug\net7.0\ref\static_sinif_ve_uyeler.dll

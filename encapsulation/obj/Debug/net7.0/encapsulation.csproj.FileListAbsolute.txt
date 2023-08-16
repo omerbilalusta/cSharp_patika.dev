@@ -1,0 +1,15 @@
+D:\Kodlar\c#\encapsulation\bin\Debug\net7.0\encapsulation.exe
+D:\Kodlar\c#\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+D:\Kodlar\c#\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+D:\Kodlar\c#\encapsulation\bin\Debug\net7.0\encapsulation.dll
+D:\Kodlar\c#\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.dll
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+D:\Kodlar\c#\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll

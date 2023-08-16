@@ -1,0 +1,15 @@
+D:\Kodlar\c#\kurucu_metotlar\bin\Debug\net7.0\kurucu_metotlar.exe
+D:\Kodlar\c#\kurucu_metotlar\bin\Debug\net7.0\kurucu_metotlar.deps.json
+D:\Kodlar\c#\kurucu_metotlar\bin\Debug\net7.0\kurucu_metotlar.runtimeconfig.json
+D:\Kodlar\c#\kurucu_metotlar\bin\Debug\net7.0\kurucu_metotlar.dll
+D:\Kodlar\c#\kurucu_metotlar\bin\Debug\net7.0\kurucu_metotlar.pdb
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.csproj.AssemblyReference.cache
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.AssemblyInfoInputs.cache
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.AssemblyInfo.cs
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.dll
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\refint\kurucu_metotlar.dll
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.pdb
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\kurucu_metotlar.genruntimeconfig.cache
+D:\Kodlar\c#\kurucu_metotlar\obj\Debug\net7.0\ref\kurucu_metotlar.dll
