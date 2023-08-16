@@ -1,0 +1,15 @@
+D:\Kodlar\c#\enum\bin\Debug\net7.0\enum.exe
+D:\Kodlar\c#\enum\bin\Debug\net7.0\enum.deps.json
+D:\Kodlar\c#\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+D:\Kodlar\c#\enum\bin\Debug\net7.0\enum.dll
+D:\Kodlar\c#\enum\bin\Debug\net7.0\enum.pdb
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.csproj.AssemblyReference.cache
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.dll
+D:\Kodlar\c#\enum\obj\Debug\net7.0\refint\enum.dll
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.pdb
+D:\Kodlar\c#\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+D:\Kodlar\c#\enum\obj\Debug\net7.0\ref\enum.dll
