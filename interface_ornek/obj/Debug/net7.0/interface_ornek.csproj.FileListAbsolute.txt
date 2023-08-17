@@ -1,0 +1,15 @@
+D:\Kodlar\c#\interface_ornek\bin\Debug\net7.0\interface_ornek.exe
+D:\Kodlar\c#\interface_ornek\bin\Debug\net7.0\interface_ornek.deps.json
+D:\Kodlar\c#\interface_ornek\bin\Debug\net7.0\interface_ornek.runtimeconfig.json
+D:\Kodlar\c#\interface_ornek\bin\Debug\net7.0\interface_ornek.dll
+D:\Kodlar\c#\interface_ornek\bin\Debug\net7.0\interface_ornek.pdb
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.csproj.AssemblyReference.cache
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.AssemblyInfoInputs.cache
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.AssemblyInfo.cs
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.dll
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\refint\interface_ornek.dll
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.pdb
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\interface_ornek.genruntimeconfig.cache
+D:\Kodlar\c#\interface_ornek\obj\Debug\net7.0\ref\interface_ornek.dll

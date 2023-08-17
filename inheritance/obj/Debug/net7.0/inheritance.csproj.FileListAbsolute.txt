@@ -1,0 +1,15 @@
+D:\Kodlar\c#\inheritance\bin\Debug\net7.0\inheritance.exe
+D:\Kodlar\c#\inheritance\bin\Debug\net7.0\inheritance.deps.json
+D:\Kodlar\c#\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+D:\Kodlar\c#\inheritance\bin\Debug\net7.0\inheritance.dll
+D:\Kodlar\c#\inheritance\bin\Debug\net7.0\inheritance.pdb
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.dll
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.pdb
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+D:\Kodlar\c#\inheritance\obj\Debug\net7.0\ref\inheritance.dll

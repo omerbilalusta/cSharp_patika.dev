@@ -1,0 +1,15 @@
+D:\Kodlar\c#\struct_kavrami\bin\Debug\net7.0\struct_kavrami.exe
+D:\Kodlar\c#\struct_kavrami\bin\Debug\net7.0\struct_kavrami.deps.json
+D:\Kodlar\c#\struct_kavrami\bin\Debug\net7.0\struct_kavrami.runtimeconfig.json
+D:\Kodlar\c#\struct_kavrami\bin\Debug\net7.0\struct_kavrami.dll
+D:\Kodlar\c#\struct_kavrami\bin\Debug\net7.0\struct_kavrami.pdb
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.csproj.AssemblyReference.cache
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.AssemblyInfoInputs.cache
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.AssemblyInfo.cs
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.dll
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\refint\struct_kavrami.dll
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.pdb
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\struct_kavrami.genruntimeconfig.cache
+D:\Kodlar\c#\struct_kavrami\obj\Debug\net7.0\ref\struct_kavrami.dll

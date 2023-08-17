@@ -1,0 +1,15 @@
+D:\Kodlar\c#\abstract_ornek\bin\Debug\net7.0\abstract_ornek.exe
+D:\Kodlar\c#\abstract_ornek\bin\Debug\net7.0\abstract_ornek.deps.json
+D:\Kodlar\c#\abstract_ornek\bin\Debug\net7.0\abstract_ornek.runtimeconfig.json
+D:\Kodlar\c#\abstract_ornek\bin\Debug\net7.0\abstract_ornek.dll
+D:\Kodlar\c#\abstract_ornek\bin\Debug\net7.0\abstract_ornek.pdb
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.csproj.AssemblyReference.cache
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.AssemblyInfoInputs.cache
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.AssemblyInfo.cs
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.csproj.CoreCompileInputs.cache
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.dll
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\refint\abstract_ornek.dll
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.pdb
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\abstract_ornek.genruntimeconfig.cache
+D:\Kodlar\c#\abstract_ornek\obj\Debug\net7.0\ref\abstract_ornek.dll
