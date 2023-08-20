@@ -1,0 +1,14 @@
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.AssemblyInfoInputs.cache
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.AssemblyInfo.cs
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\Proje2\bin\Debug\net7.0\Proje2.exe
+F:\Kodlar\c#\Proje2\bin\Debug\net7.0\Proje2.deps.json
+F:\Kodlar\c#\Proje2\bin\Debug\net7.0\Proje2.runtimeconfig.json
+F:\Kodlar\c#\Proje2\bin\Debug\net7.0\Proje2.dll
+F:\Kodlar\c#\Proje2\bin\Debug\net7.0\Proje2.pdb
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.dll
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\refint\Proje2.dll
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.pdb
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\Proje2.genruntimeconfig.cache
+F:\Kodlar\c#\Proje2\obj\Debug\net7.0\ref\Proje2.dll
