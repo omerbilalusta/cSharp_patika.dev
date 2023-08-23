@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\ucgenCizme\bin\Debug\net7.0\ucgenCizme.exe
+F:\Kodlar\c#\c#_Proje\ucgenCizme\bin\Debug\net7.0\ucgenCizme.deps.json
+F:\Kodlar\c#\c#_Proje\ucgenCizme\bin\Debug\net7.0\ucgenCizme.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\ucgenCizme\bin\Debug\net7.0\ucgenCizme.dll
+F:\Kodlar\c#\c#_Proje\ucgenCizme\bin\Debug\net7.0\ucgenCizme.pdb
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.dll
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\refint\ucgenCizme.dll
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.pdb
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ucgenCizme.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\ucgenCizme\obj\Debug\net7.0\ref\ucgenCizme.dll

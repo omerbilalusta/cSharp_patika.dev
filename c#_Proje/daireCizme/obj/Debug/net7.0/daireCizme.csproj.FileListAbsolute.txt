@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\daireCizme\bin\Debug\net7.0\daireCizme.exe
+F:\Kodlar\c#\c#_Proje\daireCizme\bin\Debug\net7.0\daireCizme.deps.json
+F:\Kodlar\c#\c#_Proje\daireCizme\bin\Debug\net7.0\daireCizme.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\daireCizme\bin\Debug\net7.0\daireCizme.dll
+F:\Kodlar\c#\c#_Proje\daireCizme\bin\Debug\net7.0\daireCizme.pdb
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.dll
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\refint\daireCizme.dll
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.pdb
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\daireCizme.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\daireCizme\obj\Debug\net7.0\ref\daireCizme.dll

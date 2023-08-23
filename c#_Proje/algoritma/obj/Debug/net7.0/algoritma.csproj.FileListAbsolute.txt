@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\algoritma\bin\Debug\net7.0\algoritma.exe
+F:\Kodlar\c#\c#_Proje\algoritma\bin\Debug\net7.0\algoritma.deps.json
+F:\Kodlar\c#\c#_Proje\algoritma\bin\Debug\net7.0\algoritma.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\algoritma\bin\Debug\net7.0\algoritma.dll
+F:\Kodlar\c#\c#_Proje\algoritma\bin\Debug\net7.0\algoritma.pdb
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.dll
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\refint\algoritma.dll
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.pdb
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\algoritma.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\algoritma\obj\Debug\net7.0\ref\algoritma.dll

@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\Proje1\bin\Debug\net7.0\Proje1.exe
+F:\Kodlar\c#\c#_Proje\Proje1\bin\Debug\net7.0\Proje1.deps.json
+F:\Kodlar\c#\c#_Proje\Proje1\bin\Debug\net7.0\Proje1.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\Proje1\bin\Debug\net7.0\Proje1.dll
+F:\Kodlar\c#\c#_Proje\Proje1\bin\Debug\net7.0\Proje1.pdb
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.dll
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\refint\Proje1.dll
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.pdb
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\Proje1.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\Proje1\obj\Debug\net7.0\ref\Proje1.dll
