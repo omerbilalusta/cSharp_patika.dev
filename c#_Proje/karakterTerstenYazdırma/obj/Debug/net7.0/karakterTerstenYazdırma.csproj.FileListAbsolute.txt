@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\bin\Debug\net7.0\karakterTerstenYazdırma.exe
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\bin\Debug\net7.0\karakterTerstenYazdırma.deps.json
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\bin\Debug\net7.0\karakterTerstenYazdırma.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\bin\Debug\net7.0\karakterTerstenYazdırma.dll
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\bin\Debug\net7.0\karakterTerstenYazdırma.pdb
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.dll
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\refint\karakterTerstenYazdırma.dll
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.pdb
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\karakterTerstenYazdırma.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\karakterTerstenYazdırma\obj\Debug\net7.0\ref\karakterTerstenYazdırma.dll
