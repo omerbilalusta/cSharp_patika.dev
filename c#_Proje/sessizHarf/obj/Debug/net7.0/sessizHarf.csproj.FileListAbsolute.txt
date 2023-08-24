@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\sessizHarf\bin\Debug\net7.0\sessizHarf.exe
+F:\Kodlar\c#\c#_Proje\sessizHarf\bin\Debug\net7.0\sessizHarf.deps.json
+F:\Kodlar\c#\c#_Proje\sessizHarf\bin\Debug\net7.0\sessizHarf.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\sessizHarf\bin\Debug\net7.0\sessizHarf.dll
+F:\Kodlar\c#\c#_Proje\sessizHarf\bin\Debug\net7.0\sessizHarf.pdb
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.dll
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\refint\sessizHarf.dll
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.pdb
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\sessizHarf.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\sessizHarf\obj\Debug\net7.0\ref\sessizHarf.dll
