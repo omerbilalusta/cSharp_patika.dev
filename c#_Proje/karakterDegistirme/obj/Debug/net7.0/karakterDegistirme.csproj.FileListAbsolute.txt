@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.exe
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.deps.json
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.dll
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\bin\Debug\net7.0\karakterDegistirme.pdb
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.dll
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\refint\karakterDegistirme.dll
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.pdb
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\karakterDegistirme.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\karakterDegistirme\obj\Debug\net7.0\ref\karakterDegistirme.dll

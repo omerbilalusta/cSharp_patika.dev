@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\bin\Debug\net7.0\integerIkililerinToplami.exe
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\bin\Debug\net7.0\integerIkililerinToplami.deps.json
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\bin\Debug\net7.0\integerIkililerinToplami.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\bin\Debug\net7.0\integerIkililerinToplami.dll
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\bin\Debug\net7.0\integerIkililerinToplami.pdb
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.dll
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\refint\integerIkililerinToplami.dll
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.pdb
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\integerIkililerinToplami.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\integerIkililerinToplami\obj\Debug\net7.0\ref\integerIkililerinToplami.dll

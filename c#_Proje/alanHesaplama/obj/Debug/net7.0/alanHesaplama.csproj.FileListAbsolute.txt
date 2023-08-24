@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\alanHesaplama\bin\Debug\net7.0\alanHesaplama.exe
+F:\Kodlar\c#\c#_Proje\alanHesaplama\bin\Debug\net7.0\alanHesaplama.deps.json
+F:\Kodlar\c#\c#_Proje\alanHesaplama\bin\Debug\net7.0\alanHesaplama.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\alanHesaplama\bin\Debug\net7.0\alanHesaplama.dll
+F:\Kodlar\c#\c#_Proje\alanHesaplama\bin\Debug\net7.0\alanHesaplama.pdb
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.dll
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\refint\alanHesaplama.dll
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.pdb
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\alanHesaplama.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\alanHesaplama\obj\Debug\net7.0\ref\alanHesaplama.dll
