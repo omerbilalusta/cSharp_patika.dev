@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.exe
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.deps.json
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\bin\Debug\net7.0\ATMUygulamasi.pdb
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\refint\ATMUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.pdb
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ATMUygulamasi.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\ATMUygulamasi\obj\Debug\net7.0\ref\ATMUygulamasi.dll

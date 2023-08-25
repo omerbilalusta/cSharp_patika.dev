@@ -1,0 +1,14 @@
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.exe
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.deps.json
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.runtimeconfig.json
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\bin\Debug\net7.0\votingUygulamasi.pdb
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.AssemblyInfoInputs.cache
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.AssemblyInfo.cs
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.csproj.CoreCompileInputs.cache
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\refint\votingUygulamasi.dll
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.pdb
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\votingUygulamasi.genruntimeconfig.cache
+F:\Kodlar\c#\c#_Proje\votingUygulamasi\obj\Debug\net7.0\ref\votingUygulamasi.dll
