@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oi7UEB5iR+uF+BYaat03Hd9DFWW65cHhinO7M3lw0DkMejvvInXiJ+u0c8PIsgslj/NinI+4GXIuNOg/Ct+i6g==",
+  "success": true,
+  "projectFilePath": "F:\\Kodlar\\c#\\c#_Proje\\Barcode_GeneratorReader\\Barcode_GeneratorReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer\\.nuget\\packages\\barcode\\2023.8.4\\barcode.2023.8.4.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\ironsoftware.native.pdfmodel\\2023.8.17287\\ironsoftware.native.pdfmodel.2023.8.17287.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
